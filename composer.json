@@ -1,0 +1,21 @@
+{
+	"name": "acya-skulskaya/package-test-hw3",
+	"version": "0.0.1",
+	"description": "Test package for HW3",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Acya Skulskaya",
+			"email": "onestepclosertome@gmail.com",
+			"role": "Developer"
+		}
+	],
+	"require": {
+		"php": ">=7.3.0"
+	},
+	"autoload": {
+		"psr-4": {
+            "ASTest\\": "scr/ASTest"
+        }
+	}
+}
