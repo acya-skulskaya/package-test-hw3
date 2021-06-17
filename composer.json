@@ -3,6 +3,7 @@
 	"version": "0.0.1",
 	"description": "Test package for HW3",
 	"license": "MIT",
+	"minimum-stability": "dev",
 	"authors": [
 		{
 			"name": "Acya Skulskaya",
